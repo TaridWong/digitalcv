@@ -35,7 +35,8 @@ Thammasat University Graduate (2012-2016)
   - Learning Analytics
   - Educational Data Mining  <br>    
 
-### Peer Reviewed Journal Articles (18):  
+### Peer Reviewed Journal Articles (19):  
+- He, S; Bulut, O; Cui, Y; and Wongvorachan, T. (2025). [Uncovering dimensions of learning management system event logs: Insights from exploratory factor analysis, psychometric network analysis, and consensus hierarchical clustering](https://doi.org/10.59863/FZRN7818). Chinese/English Journal of Educational Measurement and Evaluation | 教育测量与评估双语期刊, 6(1), 7.  <br>  
 - Thampanichwat, C., **Wongvorachan, T**., Sirisakdi, L., Somngam, P., Petlai, T., Singkham, S., Bhutdhakomut, B., & Jinjantarawong, N. (2025). [The architectural language of biophilic design after architects use text-to-image AI](https://www.mdpi.com/3191888). _Buildings_, 15(5), 662. https://doi.org/10.3390/buildings15050662.  <br>  
 - Wongmahasiri, R., **Wongvorachan, T**., Thampanichwat, C., & Bunyarittikit, S. (2024). [Impact of wall paint solar absorptance on CO2 emissions in residential buildings: A case study from Bangkok](https://www.mdpi.com/2075-5309/14/12/3958). _Buildings_, _14_(12), 3958. https://doi.org/10.3390/buildings14123958.  <br>  
 - Chobthamkit, P., Sutton, R. M., English, A. S., **Wongvorachan, T**., Datu, J. A. D., Chung, K. L., Tan, C., Imada, H., Ozkan, Z., Ashraf, F., Cayubit, R. F. O., Chaleeraktrakoon, T., Cheng, C., Chien, C., Ching, B. H., Fatima, I., Jiang, D., Kamble, S. V., Khan, A., … Yusoff, A. M. (2024). [Belief in a just world for the self and others, karma, system justification and well-being during COVID-19 pandemic: Evidence from 15 Asian nations](https://onlinelibrary.wiley.com/doi/10.1111/ajsp.12667). _Asian Journal of Social Psychology_, _0_(0). https://doi.org/10.1111/ajsp.12667.  <br>  
