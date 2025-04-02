@@ -247,6 +247,13 @@ Thammasat University, Thailand.
     -  Translated complex technical results into clear, actionable insights for non-technical stakeholders, fostering cross-functional understanding and collaboration.
     -  Delivered psychometric training to non-technical stakeholders, including directors and educational officers, to enhance program knowledge and operational effectiveness.
     -  Conducted data science tasks as a cross-functional collaborator, validating the analyses performed by data analysts to ensure the accuracy and quality of results.  <br>
+
+ - **Data Consultant** (2024), UNICEF Thailand, 19 Phra Atit Road, Bangkok, Thailand, 10200.
+    -  Conducted comprehensive reviews of Thailand’s PISA-related analytical reports to identify gaps and policy-relevant insights, driving evidence-based education reforms.
+    -  Developed actionable recommendations for secondary analyses of PISA data, emphasizing teacher development, curriculum enhancement, and improved decision-making across the education system.
+    -  Co-authored updated policy briefs incorporating recent data (MICS2022 and PISA2022), strengthening the link between learning outcomes and targeted educational strategies.
+    -  Produced an annotated bibliography summarizing PISA analyses (2015, 2018, 2022) to inform future qualitative and quantitative research.
+    -  Provided data-driven consultancy to international-level policymakers.  <br>  
     
  - **Graduate Student Research Assistant** (2024), STEM, Careers, and Indigenous Curriculum sector, Alberta Education, Edmonton, AB, Canada.
     -  Conducted jurisdictional scans to support curriculum development.  
