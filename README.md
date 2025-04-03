@@ -35,7 +35,9 @@ Thammasat University Graduate (2012-2016)
   - Learning Analytics
   - Educational Data Mining  <br>    
 
-### Peer Reviewed Journal Articles (20):  
+### Peer Reviewed Journal Articles (22):  
+- Wongvorachan, T., Bulut, O. (2025). [The advanced applications of psychological networks with exploratory graph analysis](https://lamethods.org/book2/chapters/ch13-ega/ch13-ega.html). In M. Saqr & S. López-Pernas (Eds.), _Advanced learning analytics methods: AI, precision and complexity_ (in – press). Springer. https://lamethods.org/book2/chapters/ch13-ega/ch13-ega.html  <br>  
+- Wongvorachan, T., Bulut, O. (2025). [The use of natural language processing in learning analytics](https://lamethods.org/book2/chapters/ch09-nlp/ch09-nlp.html). In M. Saqr & S. López-Pernas (Eds.), _Advanced learning analytics methods: AI, precision and complexity_ (in – press). Springer. https://lamethods.org/book2/chapters/ch09-nlp/ch09-nlp.html.  <br>  
 - Thampanichwat, C., **Wongvorachan, T**., Sirisakdi, L., Chunhajinda, P., Bunyarittikit, S., & Wongmahasiri, R. (2025). [Mindful architecture from text-to-image AI perspectives: A case study of DALL-E, Midjourney, and Stable Diffusion](https://doi.org/10.3390/buildings15060972). _Buildings_, _15_(6), 972. https://doi.org/10.3390/buildings15060972.  <br>
 - He, S; Bulut, O; Cui, Y; and **Wongvorachan, T**. (2025). [Uncovering dimensions of learning management system event logs: Insights from exploratory factor analysis, psychometric network analysis, and consensus hierarchical clustering](https://doi.org/10.59863/FZRN7818). _Chinese-English Journal of Educational Measurement and Evaluation_ (教育测量与评估双语期刊), _6_(1), 7.  <br>  
 - Thampanichwat, C., **Wongvorachan, T**., Sirisakdi, L., Somngam, P., Petlai, T., Singkham, S., Bhutdhakomut, B., & Jinjantarawong, N. (2025). [The architectural language of biophilic design after architects use text-to-image AI](https://www.mdpi.com/3191888). _Buildings_, _15_(5), 662. https://doi.org/10.3390/buildings15050662.  <br>  
