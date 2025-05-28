@@ -59,7 +59,9 @@ Thammasat University Graduate (2012-2016)
 - **Wongvorachan, T**., Clelland A., Gorgun G., Bulut, O. (2022). [Identifying the Predictors of Mathematics Anxiety AND Performance in Canada: An Educational Data Mining Approach](https://journals.library.ualberta.ca/aar/index.php/aar/article/view/134). _Alberta Academic Review_, _5_(1), 2-2. <br>  
 - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016). [The influence of communication methods on the perception of sadness](http://bsris.swu.ac.th/journal/230160/pdf/4.noppamon55-70.pdf). _Journal of Behavioral Science, 23_(1), 55-70. <br> 
 
-### Professional Conference Presentations (24):  
+### Professional Conference Presentations (26):  
+ - **Wongvorachan, T**. (2025 May 3rd), _Rethinking Academic Publishing: A Call for Inclusive, Transparent, and Sustainable Reforms_ [Roundtable Discussion]. Alberta Graduate Conference in Education 2025, Edmonton, Alberta.  
+ - **Wongvorachan, T**., Sakulku, J., & Charuchutharat, Y. (2025 April 4th), _Risk factors and predictors of incarceration and recidivism in juvenile offenders: Insights from a maximum-risk juvenile detention center_ [Paper presentation]. 39th Royce Research Conference, Edmonton, Alberta. Best Talk Award.  
  - Poth, C., **Wongvorachan, T**., Shariff, F., Dufresne, D. (2025 April 15th – 16th), _Fostering Inclusion and Equity in Mixed Methods Research Publishing_ [Paper presentation]. 5th Mixed Methods Caribbean Regional Conference, Kingston, Jamaica.  
  - Armoush, N., Gorgun, G., **Wongvorachan, T**., Gierl, M., Bulut O. (2024 April) [_Generating and evaluating AIG items_](https://doi.org/10.7939/r3-4wmb-wg60) [Poster presentation]. the UAlberta Graduate Student Research in Education Conference 2024, Edmonton, Alberta, Canada.  
 - **Wongvorachan, T**. (2024 April). [_Accessible digital learning resources: A jurisdictional scan_](https://doi.org/10.7939/r3-6b9w-8k08). Paper presented at the UAlberta Graduate Student Research in Education Conference 2024, Edmonton, Alberta, Canada.  
@@ -96,7 +98,9 @@ Thammasat University Graduate (2012-2016)
   
 ## :newspaper: ACADEMIC SERVICE  
   
-### Peer Reviewer (9):  
+### Peer Reviewer (11):  
+ - Statistics and Computing (2025)  
+ - BMC Medical Education (2025)  
  - Canadian Society for the Study of Education 52nd Annual Conference (2024)  
  - National Council of Measurement in Education 2024 Annual Meeting Conference (2023)  
  - Patterns (2023)  
@@ -111,7 +115,9 @@ Thammasat University Graduate (2012-2016)
  - Chobthamkit, P., Sutton, R. M., Uskul, A. K., & Chaleeraktrakoon, T. (2022). Personal Versus General Belief in a Just World, Karma, and Well-Being: Evidence from Thailand and the UK. _Social Justice Research_, 1-22. https://doi.org/10.1007/s11211-022-00393-4  
  - Poth, C. N., Molina-Azorin, J. F., & Fetters, M. D. (2022). Virtual Special Issue on “Design of Mixed Methods Research: Past Advancements, Present Conversations, and Future Possibilities.” Journal of Mixed Methods Research. https://doi.org/10.1177/15586898221110375  
   
-### Invited Talks (6):  
+### Invited Talks (8):  
+  - Wongvorachan T. (2025, July 5th). _From Concept to Completion: Using AI to Support Every Stage of the Dissertation Process_. Seminar. Faculty of Psychology, Chulalongkorn University, Thailand.  
+  - Wongvorachan T. (2025, May 17th). _The Art and Science of Giving Effective Feedback: Insights from Education and Artificial Intelligence_. Open lecture. Faculty of Psychology, Chulalongkorn University, Thailand.  
   - Wongvorachan T. (2025, January 22nd and 24th). _Analyzing Large-Scale Survey Data with Data Science Techniques_. Open lecture. Faculty of Psychology, Chulalongkorn University, Thailand.  
   - Wongvorachan T. (2024, August 28th). _Mastering the art of literature review: Navigating research landscapes and uncovering your next big idea_. Open lecture. Faculty of Education, Chulalongkorn University, Thailand.  
   - Wongvorachan T. (2023, September 23). _Introduction to Qualitative-oriented Mixed Methods Research_. EDHS 597 Qualitative Research Methodologies in Health Science Education. Faculty of Rehabilitation Medicine, University of Alberta, Canada.  
