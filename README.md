@@ -222,7 +222,8 @@ Thammasat University, Thailand.
   - **Principal Instructor**, .  
     -  Faculty of Education, Chulalongkorn University, Thailand:
         - _2758701: Learning Analytics in Education_ (2024) <br>  
-        - _2758706: Data Analytics for Educational Decision Making_ (2025) <br>  
+        - _2758706: Data Analytics for Educational Decision Making_ (2025) <br>
+        - _2758701: Learning Analytics in Education_ (2024)  <br>  
     -  Department of Educational Psychology, University of Alberta, Canada:  
         - _EDPY 303: Educational Assessment_ (Fall 2024, Winter 2023, 2024) <br>  
   - **Graduate Teaching Assistant**, Department of Educational Psychology, University of Alberta, Canada.  
@@ -361,5 +362,5 @@ Thammasat University, Thailand.
       - Data extraction  
       - Risk of Bias Assessment  
 
-     - For programming portfolio, see [my blog](https://taridwong.github.io)  
+     - For programming portfolio, see [my legacy blog](https://taridwong.github.io) and [my current blog](https://sites.google.com/view/tarid2)  
 
