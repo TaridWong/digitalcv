@@ -98,7 +98,8 @@ Thammasat University Graduate (2012-2016)
   
 ## :newspaper: ACADEMIC SERVICE  
   
-### Peer Reviewer (11):  
+### Peer Reviewer (12):  
+ - Behavioral Sciences (2025)  
  - Statistics and Computing (2025)  
  - BMC Medical Education (2025)  
  - Canadian Society for the Study of Education 52nd Annual Conference (2024)  
