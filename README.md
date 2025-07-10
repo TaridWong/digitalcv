@@ -19,7 +19,7 @@ Ph.D., Measurement, Evaluation, and Data Science
 MDPI Best paper award (Information)
   - In recognition of the paper: A comparison of undersampling, oversampling, and SMOTE methods for dealing with imbalanced classification in educational data mining (800 CHF) _Summer 2025_ <br>  
   
-University of Alberta (2021 - 2025)  
+University of Alberta (2021 - 2024)  
   - Alberta Thai Association: Boon-oom/Banyong Scholarship (1000 CAD) _Fall 2023_ <br>  
   - University of Alberta FGSR Doctoral Recruitment Scholarship (5000 CAD) _Winter 2021_ <br>  
   
