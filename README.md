@@ -16,7 +16,10 @@ Ph.D., Measurement, Evaluation, and Data Science
 [Psychology Program](https://www.psy.arts.tu.ac.th/) - Bangkok, Thailand. _(Aug 2012 - May 2016)_ <br>  
 
 ## 🏆 AWARDS AND GRANTS  
-University of Alberta (2021 - present)  
+MDPI Best paper award (Information)
+  - In recognition of the paper: A comparison of undersampling, oversampling, and SMOTE methods for dealing with imbalanced classification in educational data mining (800 CHF) _Summer 2025_ <br>  
+  
+University of Alberta (2021 - 2025)  
   - Alberta Thai Association: Boon-oom/Banyong Scholarship (1000 CAD) _Fall 2023_ <br>  
   - University of Alberta FGSR Doctoral Recruitment Scholarship (5000 CAD) _Winter 2021_ <br>  
   
@@ -51,7 +54,7 @@ Thammasat University Graduate (2012-2016)
 - Poth, C. N., **Wongvorachan, T**., Bulut, O., & Otto, S. J. G. (2024). [Adaptive Case Study-Mixed Methods Design Practices for Researchers Studying Complex Phenomena](https://doi.org/10.1177/15586898241250217). _Journal of Mixed Methods Research_, _18_(3), 292-303.  <br>
 - Mazzullo, E., Bulut, O., **Wongvorachan, T**., & Tan, B. (2023). [Learning analytics in the era of large language models](https://www.mdpi.com/2813-2203/2/4/46). _Analytics_, _2_(4), 877-898.  <br>  
 - Bulut, O., Gorgun, G., **Wongvorachan, T**., & Tan, B. (2023). [Rapid guessing in low-stakes assessments: Finding the optimal response time threshold with random search and genetic algorithm](https://www.mdpi.com/2120488). _Algorithms_, _16_(2), 89.  <br>  
-- **Wongvorachan, T**., He, S., Bulut, O. (2023). [A comparison of undersampling, oversampling, and SMOTE methods for dealing with imbalanced classification in educational data mining](https://doi.org/10.3390/info14010054). _Information_, _14_(1), 54.  <br>  
+- **Wongvorachan, T**., He, S., Bulut, O. (2023). [A comparison of undersampling, oversampling, and SMOTE methods for dealing with imbalanced classification in educational data mining](https://doi.org/10.3390/info14010054). _Information_, _14_(1), 54. Best paper award.  <br>  
 - **Wongvorachan, T**., Bulut, O. (2022). [Feedback generation through artificial intelligence](https://doi.org/10.18357/otessac.2022.2.1.125). _The Open/Technology in Education, Society, and Scholarship Association Conference Proceedings_, _2_(1), 1-9. <br>  
 - **Wongvorachan, T**., Bulut, O., Tsai, Y.-S., Lindner, M.A. (2022). [Improving Student Feedback Literacy in e-Assessments: A Framework for the Higher Education Context](https://www.mdpi.com/1989300). _Trends in Higher Education_, _1_(1), 16–29. <br>  
 - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S., Chen, G. (2022). [Artificial Intelligence: Transforming the Future of Feedback in Education](http://jattjournal.net/index.php/atp/article/view/170387). _Journal of Applied Testing Technology_, _23_(1), 95-116. <br> 
