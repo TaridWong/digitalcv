@@ -38,7 +38,8 @@ Thammasat University Graduate (2012-2016)
   - Learning Analytics
   - Educational Data Mining  <br>    
 
-### Peer Reviewed Journal Articles (22):  
+### Peer Reviewed Journal Articles (23):  
+- Thampanichwat, C., Sirisakdi, L., Petsirasan, S., Wutisun, D., Singkham, S., Wongvorachan, T., Phaibulputhipong, P., Bunyarittikit, S., & Wongmahasiri, R. (2025). [A Systematic review of architectural atmosphere that fosters mindfulness constructs](https://doi.org/10.3390/buildings15142443). _Buildings_, _15_(14), 2443. https://doi.org/10.3390/buildings15142443.  <br>  
 - Wongvorachan, T., Bulut, O. (2025). [The advanced applications of psychological networks with exploratory graph analysis](https://lamethods.org/book2/chapters/ch13-ega/ch13-ega.html). In M. Saqr & S. López-Pernas (Eds.), _Advanced learning analytics methods: AI, precision and complexity_ (in – press). Springer. https://lamethods.org/book2/chapters/ch13-ega/ch13-ega.html  <br>  
 - Wongvorachan, T., Bulut, O. (2025). [The use of natural language processing in learning analytics](https://lamethods.org/book2/chapters/ch09-nlp/ch09-nlp.html). In M. Saqr & S. López-Pernas (Eds.), _Advanced learning analytics methods: AI, precision and complexity_ (in – press). Springer. https://lamethods.org/book2/chapters/ch09-nlp/ch09-nlp.html.  <br>  
 - Thampanichwat, C., **Wongvorachan, T**., Sirisakdi, L., Chunhajinda, P., Bunyarittikit, S., & Wongmahasiri, R. (2025). [Mindful architecture from text-to-image AI perspectives: A case study of DALL-E, Midjourney, and Stable Diffusion](https://doi.org/10.3390/buildings15060972). _Buildings_, _15_(6), 972. https://doi.org/10.3390/buildings15060972.  <br>
