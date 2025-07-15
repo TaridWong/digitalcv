@@ -142,7 +142,7 @@ Thammasat University Graduate (2012-2016)
 
 ### Graduate Research Assistant  
 
-  - Informing EDII Mixed Methods Research Editorial Praxis: An Exploration of the Lived Experiences of Handbook Authors (Spring 2022, Summer 2022), Educational Psychology Department, University of Alberta, Canada.  
+  - Informing EDI Mixed Methods Research Editorial Praxis: An Exploration of the Lived Experiences of Handbook Authors (Spring 2022, Summer 2022), Educational Psychology Department, University of Alberta, Canada.  
     - Assisted in the development of a survey.  
     - Conducted quantitative analyses to support the development of the survey.  
 
