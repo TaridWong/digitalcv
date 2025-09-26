@@ -124,8 +124,8 @@ Thammasat University Graduate (2012-2016)
   
 ### Invited Talks (12):  
   - Wongvorachan T. (2025, September 24th). _Introduction to Operational Psychometrics_. Seminar. Faculty of Psychology, Chulalongkorn University, Thailand  
-  - Wongvorachan T. (2025, September 19). _Feedback literacy in the digital age: Learning-oriented sustainable assessment (LOSA) in action_. National Institute of Education, Nanyang Technological University, Singapore  
-  - Wongvorachan T. (2025, September 17). _Numbers tell stories, but reflection makes them last: Toward sustainable assessment_. Seminar. National Institute of Education, Nanyang Technological University, Singapore  
+  - Wongvorachan T. (2025, September 19th). _Feedback literacy in the digital age: Learning-oriented sustainable assessment (LOSA) in action_. National Institute of Education, Nanyang Technological University, Singapore  
+  - Wongvorachan T. (2025, September 17th). _Numbers tell stories, but reflection makes them last: Toward sustainable assessment_. Seminar. National Institute of Education, Nanyang Technological University, Singapore  
   - Wongvorachan T. (2025, July 5th). _From Concept to Completion: Using AI to Support Every Stage of the Dissertation Process_. Seminar. Faculty of Psychology, Chulalongkorn University, Thailand.  
   - Wongvorachan T. (2025, May 17th). _The Art and Science of Giving Effective Feedback: Insights from Education and Artificial Intelligence_. Open lecture. Faculty of Psychology, Chulalongkorn University, Thailand.  
   -	Wongvorachan, T. (2025, February 20th). Introduction to Free and Open-Source Research Tools. Seminar. Centre for Mathematics, Science, and Technology Education, University of Alberta, Edmonton, AB, Canada.  
