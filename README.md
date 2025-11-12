@@ -38,7 +38,9 @@ Thammasat University Graduate (2012-2016)
   - Learning Analytics
   - Educational Data Mining  <br>    
 
-### Peer Reviewed Journal Articles (24):  
+### Peer Reviewed Journal Articles (26):  
+- **Wongvorachan, T**., & Bulut, O. (2025). [Detecting construct-irrelevant variance: A comparison of network psychometrics and traditional psychometric methods using the HEXACO-PI dataset](https://doi.org/10.3390/psycholint7040088). _Psychology International_, _7_(4), 88. https://doi.org/10.3390/psycholint7040088  <br>  
+- Preechapanich, S., Onsuwan, C., & **Wongvorachan, T**. (2025). [Influence of language on Thai preschoolers on gender classification](https://doi.org/10.64731/jla.v25i2.285836). _Journal of Liberal Arts: Thammasat University_, _25_, 233-255. https://doi.org/10.64731/jla.v25i2.285836  <br>  
 - Anunatavachakorn, P., Pawarana, P., **Wongvorachan, T**., Thampanichwat, C., & Bunyarittikit, S. (2025). [Exploring sidewalk built environment design strategies to promote walkability in tropical humid climates](https://doi.org/10.3390/buildings15152659). _Buildings_, 15(15), 2659. https://doi.org/10.3390/buildings15152659  <br>  
 - Thampanichwat, C., Sirisakdi, L., Petsirasan, S., Wutisun, D., Singkham, S., Wongvorachan, T., Phaibulputhipong, P., Bunyarittikit, S., & Wongmahasiri, R. (2025). [A Systematic review of architectural atmosphere that fosters mindfulness constructs](https://doi.org/10.3390/buildings15142443). _Buildings_, _15_(14), 2443. https://doi.org/10.3390/buildings15142443.  <br>  
 - Wongvorachan, T., Bulut, O. (2025). [The advanced applications of psychological networks with exploratory graph analysis](https://lamethods.org/book2/chapters/ch13-ega/ch13-ega.html). In M. Saqr & S. López-Pernas (Eds.), _Advanced learning analytics methods: AI, precision and complexity_ (in – press). Springer. https://lamethods.org/book2/chapters/ch13-ega/ch13-ega.html  <br>  
