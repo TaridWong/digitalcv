@@ -38,7 +38,8 @@ Thammasat University Graduate (2012-2016)
   - Learning Analytics
   - Educational Data Mining  <br>    
 
-### Peer Reviewed Journal Articles (26):  
+### Peer Reviewed Journal Articles (27):  
+- 1.	Thampanichwat, C., **Wongvorachan, T**., Somngam, P., Petlai, T., Sirisakdi, L., Anuntavachakorn, P., Bunyarittikit, S., & Prasarnklieo, W. (2025). [Biophilic architecture in the livable city of Melbourne CBD](https://doi.org/10.3390/su172310485). _Sustainability_, 17(23), 10485. https://doi.org/10.3390/su172310485  <br>  
 - **Wongvorachan, T**., & Bulut, O. (2025). [Detecting construct-irrelevant variance: A comparison of network psychometrics and traditional psychometric methods using the HEXACO-PI dataset](https://doi.org/10.3390/psycholint7040088). _Psychology International_, _7_(4), 88. https://doi.org/10.3390/psycholint7040088  <br>  
 - Preechapanich, S., Onsuwan, C., & **Wongvorachan, T**. (2025). [Influence of language on Thai preschoolers on gender classification](https://doi.org/10.64731/jla.v25i2.285836). _Journal of Liberal Arts: Thammasat University_, _25_, 233-255. https://doi.org/10.64731/jla.v25i2.285836  <br>  
 - Anunatavachakorn, P., Pawarana, P., **Wongvorachan, T**., Thampanichwat, C., & Bunyarittikit, S. (2025). [Exploring sidewalk built environment design strategies to promote walkability in tropical humid climates](https://doi.org/10.3390/buildings15152659). _Buildings_, 15(15), 2659. https://doi.org/10.3390/buildings15152659  <br>  
