@@ -1,5 +1,5 @@
 # Tarid Wongvorachan
-_Psychometrician, Education Quality and Accountability Office, Government of Ontario, Ontario, Canada._ <br>
+_Assistant Professor, Department of Educational Psychology and Special Education, College of Education, University of Saskatchewan, Saskatchewan, Canada._ <br>
   
 [EMAIL](mailto:wongvora@ualberta.ca) / [GITHUB](https://github.com/TaridWong) / [LINKEDIN](https://www.linkedin.com/in/tarid-wongvorachan-8ab264129/) / [BLOG](https://taridwong.github.io/about.html) / [CRAME LABORATORY](https://sites.google.com/ualberta.ca/crame)  /  [ORCHID](https://orcid.org/0000-0002-9622-3780) / [RESEARCHGATE](https://www.researchgate.net/profile/Tarid_Wongvorachan?ev=hdr_xprf) / [SHINYAPP DEMO](https://taridwong.shinyapps.io/plumber-api/) / [AUTHORED R PACKAGE:CTTVis](https://github.com/TaridWong/CTTvis)
 
