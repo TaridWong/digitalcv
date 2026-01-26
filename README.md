@@ -127,7 +127,8 @@ Thammasat University Graduate (2012-2016)
  - Chobthamkit, P., Sutton, R. M., Uskul, A. K., & Chaleeraktrakoon, T. (2022). Personal Versus General Belief in a Just World, Karma, and Well-Being: Evidence from Thailand and the UK. _Social Justice Research_, 1-22. https://doi.org/10.1007/s11211-022-00393-4  
  - Poth, C. N., Molina-Azorin, J. F., & Fetters, M. D. (2022). Virtual Special Issue on “Design of Mixed Methods Research: Past Advancements, Present Conversations, and Future Possibilities.” Journal of Mixed Methods Research. https://doi.org/10.1177/15586898221110375  
   
-### Invited Talks (12):  
+### Invited Talks (13):  
+  - Wongvorachan, T. (2026, January 26th). _Systematic Reviews: From Information Noise to Evidence Synthesis_. Workshop. Department of Psychology, Faculty of Liberal Arts, Thammasat University, Thailand  
   - Wongvorachan T. (2025, September 24th). _Introduction to Operational Psychometrics_. Seminar. Faculty of Psychology, Chulalongkorn University, Thailand  
   - Wongvorachan T. (2025, September 19th). _Feedback literacy in the digital age: Learning-oriented sustainable assessment (LOSA) in action_. National Institute of Education, Nanyang Technological University, Singapore  
   - Wongvorachan T. (2025, September 17th). _Numbers tell stories, but reflection makes them last: Toward sustainable assessment_. Seminar. National Institute of Education, Nanyang Technological University, Singapore  
