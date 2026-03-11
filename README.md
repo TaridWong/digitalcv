@@ -257,7 +257,7 @@ Thammasat University, Thailand.
         - _2758706: Data Analytics for Educational Decision Making_ (2025) <br>
         - _2758701: Learning Analytics in Education_ (2024, 2025)  <br>  
     -  Department of Educational Psychology, University of Alberta, Canada:  
-        - _EDPY 303: Educational Assessment_ (Fall 2024, Winter 2023, 2024) <br>  
+        - _EDPY 303: Educational Assessment_ (Fall 2024, 2025; Winter 2023, 2024) <br>  
   - **Graduate Teaching Assistant**, Department of Educational Psychology, University of Alberta, Canada.  
     -  Assisted faculty with the following courses:  
         - _EDPY 303: Educational Assessment (Winter 2021, Fall 2021, Winter 2022, Fall 2022, Fall 2023)_  <br>  
