@@ -30,6 +30,10 @@ Thammasat University Graduate (2012-2016)
   - Award for second-class honored <br>  
   
 ## 📚 RESEARCH AND SCHOLARSHIP
+### Affiliated Research Group  
+  - Visiting Scholar, MARCS-CILS NokHook BabyLab, Faculty of Liberal Arts, Thammasat University, Bangkok, Thailand    <br>  
+  - PAGES Lab – Psychological Advocacy for Gender and Equality Studies, Faculty of Liberal Arts, Thammasat University, Bangkok, Thailand    <br>
+
 ### Research Interest  
   - Educational Measurement and Psychometrics  
   - Score Reporting and Educational Feedback  
@@ -38,7 +42,8 @@ Thammasat University Graduate (2012-2016)
   - Learning Analytics
   - Educational Data Mining  <br>    
 
-### Peer Reviewed Journal Articles (29):  
+### Peer Reviewed Journal Articles (30):  
+- Thampanichwat, C., **Wongvorachan, T**., Patlai, T., Somngam, P., Sirisakdi, L., Anunatavachakorn, P., & Bunyarittikit, S (2026). Biophilic Architecture Across Regional Contexts: An exploratory study of design approaches and common characteristics. Buildings, 0(0), 0-0.  <br>  
 - Bunyarittikit, S., **Wongvorachan, T**., Petlai, T., Somngam, P., Ratanapong, N., Thampanichwat, C., & Sinnugool, S. (2026). [Exterior biophilic design attributes supporting urban mental well-being: A case study of Singapore’s architecture](https://www.mdpi.com/2071-1050/18/3/1469). _Sustainability_, 18(3), 1469. https://doi.org/10.3390/su18031469  <br>  
 - **Wongvorachan, T**., Bulut, O. (2026). [The advanced applications of psychological networks with exploratory graph analysis](https://lamethods.org/book2/chapters/ch13-ega/ch13-ega.html). In: Saqr, M., López-Pernas, S. (eds) _Advanced Learning Analytics Methods_. Springer, Cham. https://doi.org/10.1007/978-3-031-95365-1_13  <br>  
 - **Wongvorachan, T**., Bulut, O. (2026). [The use of natural language processing in learning analytics](https://lamethods.org/book2/chapters/ch09-nlp/ch09-nlp.html). In: Saqr, M., López-Pernas, S. (eds) _Advanced Learning Analytics Methods_. Springer, Cham. https://doi.org/10.1007/978-3-031-95365-1_9  <br>  
@@ -276,7 +281,7 @@ Thammasat University, Thailand.
     -  Proctored quizzes and graded papers  <br>  
    
 ## 🛠️ NON-ACADEMIC WORK EXPERIENCE  
- - **Psychometrician** (2024 - Present), Education Quality and Accountability Office, Government of Ontario, Ontario, Canada.
+ - **Psychometrician** (2024 - 2025), Education Quality and Accountability Office, Government of Ontario, Ontario, Canada.
     -  Supported the development and maintenance of standardized testing programs to uphold educational accountability.
     -  Ensured data accuracy and integrity within live operational test environments through meticulous data checks.
     -  Conducted User Acceptance Testing (UAT) for test windows, demonstrating exceptional attention to detail.
