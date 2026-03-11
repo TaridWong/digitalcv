@@ -236,12 +236,18 @@ Thammasat University, Thailand.
   - [Datacamp Power BI Fundamentals skill track certificate](https://github.com/user-attachments/assets/e51268ca-c315-4bc4-8aff-87b6904aafe5), Datacamp, 2024
     
 ## 📜 TEACHING EXPERIENCE  
-  
-  - **Principal Instructor**, .  
+  - **Assistant Professor**,  Department of Educational Psychology and Special Education, College of Education, University of Saskatchewan, Saskatoon, SK, Canada:
+    -  _EPSE 348: Essentials of Assessing Student Learning (Spring 2026)_ <br>  
+  - **Principal Instructor**,  
+    -  Teacher Professional Competencies in AI-Driven Learning Engineering Professional Development Program, Department of Educational Research and Psychology, Faculty of Education, Chulalongkorn University, Bangkok, Thailand:
+        - _Session 1: Concepts and Frameworks for Responding to Learner Differences_ <br>
+        - _Session 2: Types of Learning Data, Analytical Units, and Learning Indicators in a Classroom Context_ <br>
+        - _Session 3: Uncovering Learning Landscape, Differences, and Trends of Learners Through Descriptive Data Analytics_ <br>
+        - _Session 4: Supporting Descriptive Analysis with Artificial Intelligence_ <br>
     -  Faculty of Education, Chulalongkorn University, Thailand:
-        - _2758701: Learning Analytics in Education_ (2024) <br>  
+        - _2758626: Principals and Applications of Text Analytics_ (2026) <br>  
         - _2758706: Data Analytics for Educational Decision Making_ (2025) <br>
-        - _2758701: Learning Analytics in Education_ (2024)  <br>  
+        - _2758701: Learning Analytics in Education_ (2024, 2025)  <br>  
     -  Department of Educational Psychology, University of Alberta, Canada:  
         - _EDPY 303: Educational Assessment_ (Fall 2024, Winter 2023, 2024) <br>  
   - **Graduate Teaching Assistant**, Department of Educational Psychology, University of Alberta, Canada.  
