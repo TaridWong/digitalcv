@@ -42,8 +42,9 @@ Thammasat University Graduate (2012-2016)
   - Learning Analytics
   - Educational Data Mining  <br>    
 
-### Peer Reviewed Journal Articles (30):  
-- Thampanichwat, C., **Wongvorachan, T**., Patlai, T., Somngam, P., Sirisakdi, L., Anunatavachakorn, P., & Bunyarittikit, S (2026). Biophilic Architecture Across Regional Contexts: An exploratory study of design approaches and common characteristics. Buildings, 0(0), 0-0.  <br>  
+### Peer Reviewed Journal Articles (31):  
+- Thampanichwat, C., **Wongvorachan, T**., Patlai, T., Somngam, P., Sirisakdi, L., Anunatavachakorn, P., & Bunyarittikit, S (2026). Biophilic Architecture Across Regional Contexts: An exploratory study of design approaches and common characteristics. _Buildings_, 0(0), 0-0.  <br>
+- Thampanichwat, C., Wongvorachan, T., Petlai, T., Somngam, P., Sirisakdi, L., Anuntavachakorn, P., & Bunyarittikit, S. (2026). [Exterior architectural characteristics of biophilic design in diverse regional contexts: Case studies from Asia, Europe, and Australia](https://doi.org/10.3390/buildings16061123). _Buildings_, 16(6), 1123. https://doi.org/10.3390/buildings16061123.  <br>  
 - Bunyarittikit, S., **Wongvorachan, T**., Petlai, T., Somngam, P., Ratanapong, N., Thampanichwat, C., & Sinnugool, S. (2026). [Exterior biophilic design attributes supporting urban mental well-being: A case study of Singapore’s architecture](https://www.mdpi.com/2071-1050/18/3/1469). _Sustainability_, 18(3), 1469. https://doi.org/10.3390/su18031469  <br>  
 - **Wongvorachan, T**., Bulut, O. (2026). [The advanced applications of psychological networks with exploratory graph analysis](https://lamethods.org/book2/chapters/ch13-ega/ch13-ega.html). In: Saqr, M., López-Pernas, S. (eds) _Advanced Learning Analytics Methods_. Springer, Cham. https://doi.org/10.1007/978-3-031-95365-1_13  <br>  
 - **Wongvorachan, T**., Bulut, O. (2026). [The use of natural language processing in learning analytics](https://lamethods.org/book2/chapters/ch09-nlp/ch09-nlp.html). In: Saqr, M., López-Pernas, S. (eds) _Advanced Learning Analytics Methods_. Springer, Cham. https://doi.org/10.1007/978-3-031-95365-1_9  <br>  
