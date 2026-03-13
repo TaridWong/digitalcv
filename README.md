@@ -16,6 +16,10 @@ Ph.D., Measurement, Evaluation, and Data Science
 [Psychology Program](https://www.psy.arts.tu.ac.th/) - Bangkok, Thailand. _(Aug 2012 - May 2016)_ <br>  
 
 ## 🏆 AWARDS AND GRANTS  
+King Mongkut's Institute of Technology Ladkrabang
+  - KMITL Research Development Fund (KREF046924), (19,064.29 CAD) _2026_ <br>  
+  - Academic Melting Pot Grant (KREF206802), (16,946.04 CAD) _2025_ <br>  
+
 MDPI Best paper award (Information)
   - In recognition of the paper: A comparison of undersampling, oversampling, and SMOTE methods for dealing with imbalanced classification in educational data mining (800 CHF) _Summer 2025_ <br>  
   
