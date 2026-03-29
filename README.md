@@ -46,7 +46,8 @@ Thammasat University Graduate (2012-2016)
   - Learning Analytics
   - Educational Data Mining  <br>    
 
-### Peer Reviewed Journal Articles (31):  
+### Peer Reviewed Journal Articles (32):  
+- Phatthanaphan, N., **Wongvorachan, T**., Wutisun, D., Singkham, S., Petsirasan, S., Thampanichwat, C., Bunyarittikit, S., & Sirirat, S. (2026). [Structural imbalance and life-cycle cost coverage in vertical greenery systems: A systematic literature review](https://doi.org/10.3390/buildings16071353). _Buildings_, _16_(7), 1353. https://doi.org/10.3390/buildings16071353  <br>  
 - Thampanichwat, C., **Wongvorachan, T**., Patlai, T., Somngam, P., Sirisakdi, L., Anunatavachakorn, P., & Bunyarittikit, S (2026). [Biophilic Architecture Across Regional Contexts: An exploratory study of design approaches and common characteristics](https://doi.org/10.3390/buildings16061123). _Buildings_, _16_(6), 1123. https://doi.org/10.3390/buildings16061123  <br>
 - Thampanichwat, C., Wongvorachan, T., Petlai, T., Somngam, P., Sirisakdi, L., Anuntavachakorn, P., & Bunyarittikit, S. (2026). [Exterior architectural characteristics of biophilic design in diverse regional contexts: Case studies from Asia, Europe, and Australia](https://doi.org/10.3390/buildings16061123). _Buildings_, 16(6), 1123. https://doi.org/10.3390/buildings16061123.  <br>  
 - Bunyarittikit, S., **Wongvorachan, T**., Petlai, T., Somngam, P., Ratanapong, N., Thampanichwat, C., & Sinnugool, S. (2026). [Exterior biophilic design attributes supporting urban mental well-being: A case study of Singapore’s architecture](https://www.mdpi.com/2071-1050/18/3/1469). _Sustainability_, 18(3), 1469. https://doi.org/10.3390/su18031469  <br>  
