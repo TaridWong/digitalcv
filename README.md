@@ -121,7 +121,8 @@ Thammasat University Graduate (2012-2016)
   
 ## :newspaper: ACADEMIC SERVICE  
   
-### Peer Reviewer (12):  
+### Peer Reviewer (13):  
+ - ISSOTL26 - Building Bridges: Strengthening Relationships and Networks in SoTL (2026)  
  - Behavioral Sciences (2025)  
  - Statistics and Computing (2025)  
  - BMC Medical Education (2025)  
