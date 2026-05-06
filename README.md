@@ -16,7 +16,10 @@ Ph.D., Measurement, Evaluation, and Data Science
 [Psychology Program](https://www.psy.arts.tu.ac.th/) - Bangkok, Thailand. _(Aug 2012 - May 2016)_ <br>  
 
 ## 🏆 AWARDS AND GRANTS  
-King Mongkut's Institute of Technology Ladkrabang
+University of Saskatchewan  
+  - Faculty Recruitment and Retention Program Grant (PROJ 363154), (14,000 CAD) _2026_ <br>
+    
+King Mongkut's Institute of Technology Ladkrabang  
   - KMITL Research Development Fund (KREF046924), (19,064.29 CAD) _2026_ <br>  
   - Academic Melting Pot Grant (KREF206802), (16,946.04 CAD) _2025_ <br>  
 
