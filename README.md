@@ -257,7 +257,9 @@ Thammasat University, Thailand.
     
 ## 📜 TEACHING EXPERIENCE  
   - **Assistant Professor**,  Department of Educational Psychology and Special Education, College of Education, University of Saskatchewan, Saskatoon, SK, Canada:
-    -  _EPSE 348: Essentials of Assessing Student Learning (Spring 2026)_ <br>  
+    -  _EPSE 348: Essentials of Assessing Student Learning (Spring, Fall 2026)_ <br>  
+    -  _EPSE 843: Theory of Educational and Psychological Measurement (Fall 2026)_ <br>
+    -  _EPSE 202: Introduction to Educational Psychology (Winter 2027)_ <br>  
   - **Principal Instructor-Adjunct Professor**,  
     -  Teacher Professional Competencies in AI-Driven Learning Engineering Professional Development Program, Department of Educational Research and Psychology, Faculty of Education, Chulalongkorn University, Bangkok, Thailand:
         - _Session 1: Concepts and Frameworks for Responding to Learner Differences_ <br>
