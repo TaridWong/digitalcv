@@ -49,8 +49,9 @@ Thammasat University Graduate (2012-2016)
   - Learning Analytics
   - Educational Data Mining  <br>    
 
-### Peer Reviewed Journal Articles (33):  
-- **Wongvorachan, T**., & Naknarin, S.  (2026). [Power, prestige, and access: Tracking 25 years of discourse in academic reform with bibliometric analysis](https://doi.org/10.62160/JSC64). _Journal of Scholarly Communication_, 1. https://doi.org/10.62160/JSC64
+### Peer Reviewed Journal Articles (34):  
+- Promkesa, S., Onsuwan, C., Wongvorachan, T. [Acoustic study of French liaison consonants produced by native French speakers](https://so01.tci-thaijo.org/index.php/bulletinatpf/article/view/285388). The Bulletin de l’ATPF, 151(1), 140-167. https://so01.tci-thaijo.org/index.php/bulletinatpf/article/view/285388  <br>  
+- **Wongvorachan, T**., & Naknarin, S.  (2026). [Power, prestige, and access: Tracking 25 years of discourse in academic reform with bibliometric analysis](https://doi.org/10.62160/JSC64). _Journal of Scholarly Communication_, 1. https://doi.org/10.62160/JSC64  <br>  
 - Phatthanaphan, N., **Wongvorachan, T**., Wutisun, D., Singkham, S., Petsirasan, S., Thampanichwat, C., Bunyarittikit, S., & Sirirat, S. (2026). [Structural imbalance and life-cycle cost coverage in vertical greenery systems: A systematic literature review](https://doi.org/10.3390/buildings16071353). _Buildings_, _16_(7), 1353. https://doi.org/10.3390/buildings16071353  <br>  
 - Thampanichwat, C., **Wongvorachan, T**., Patlai, T., Somngam, P., Sirisakdi, L., Anunatavachakorn, P., & Bunyarittikit, S (2026). [Biophilic Architecture Across Regional Contexts: An exploratory study of design approaches and common characteristics](https://doi.org/10.3390/buildings16061123). _Buildings_, _16_(6), 1123. https://doi.org/10.3390/buildings16061123  <br>
 - Thampanichwat, C., Wongvorachan, T., Petlai, T., Somngam, P., Sirisakdi, L., Anuntavachakorn, P., & Bunyarittikit, S. (2026). [Exterior architectural characteristics of biophilic design in diverse regional contexts: Case studies from Asia, Europe, and Australia](https://doi.org/10.3390/buildings16061123). _Buildings_, 16(6), 1123. https://doi.org/10.3390/buildings16061123.  <br>  
