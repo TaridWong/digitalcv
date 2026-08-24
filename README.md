@@ -49,7 +49,9 @@ Thammasat University Graduate (2012-2016)
   - Learning Analytics
   - Educational Data Mining  <br>    
 
-### Peer Reviewed Journal Articles (34):  
+### Peer Reviewed Journal Articles (36):  
+- Khaengkhan P., Onsuwan, C., & **Wongvorachan, T**. (2026). [Topic, gender, and conversational roles as factors influencing the use of minimal responses in Thai](https://doi.org/10.64731/jla.v26i2.296120). _Journal of Liberal Arts, Thammasat University_, _26_(2), 1-30. https://doi.org/10.64731/jla.v26i2.296120  <br>  
+- Sirisakdi, L., Thampanichwat, C., **Wongvorachan, T**., Wutisun, D., Petsirasan, S., Payakarintarangkura, N., & Suppa-Aim, P. (2026). [Architectural atmospheres for spiritual constructs: A systematic literature review and practice-based interviews in the post-COVID era](https://doi.org/10.3390/buildings16163312). _Buildings_, _16_(16), 3312. https://doi.org/10.3390/buildings16163312  <br>  
 - Promkesa, S., Onsuwan, C., **Wongvorachan, T**. [Acoustic study of French liaison consonants produced by native French speakers](https://so01.tci-thaijo.org/index.php/bulletinatpf/article/view/285388). _The Bulletin de l’ATPF_, _151_(1), 140-167. https://so01.tci-thaijo.org/index.php/bulletinatpf/article/view/285388  <br>  
 - **Wongvorachan, T**., & Naknarin, S.  (2026). [Power, prestige, and access: Tracking 25 years of discourse in academic reform with bibliometric analysis](https://doi.org/10.62160/JSC64). _Journal of Scholarly Communication_, 1. https://doi.org/10.62160/JSC64  <br>  
 - Phatthanaphan, N., **Wongvorachan, T**., Wutisun, D., Singkham, S., Petsirasan, S., Thampanichwat, C., Bunyarittikit, S., & Sirirat, S. (2026). [Structural imbalance and life-cycle cost coverage in vertical greenery systems: A systematic literature review](https://doi.org/10.3390/buildings16071353). _Buildings_, _16_(7), 1353. https://doi.org/10.3390/buildings16071353  <br>  
