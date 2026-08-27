@@ -119,7 +119,8 @@ Thammasat University Graduate (2012-2016)
   - **Wongvorachan, T**. (2019, October, 14th). [_Cheating behavior in large-scale assessment_](https://github.com/TaridWong/digitalcv/files/7991024/UW.conference.presentation_Tarid.pdf) [Conference session]. Presented at the Research on Psychometrics & Applied Statistics (RPAS) Conference. Presented at University of Washington, Seattle, WA, USA.  <br>  
   - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016, July. 8th-9th). _The influence of communication methods on the perception of sadness_ [Conference session]. Thailand National Conference on Psychology: Empowering people in the world of change (TNCP 2016). Presented at Chulalongkorn University, Bangkok, Thailand.  <br>   
 
-### Preprint Articles and Projects (4):  
+### Preprint Articles and Projects (5):  
+  - **Wongvorachan, T**., & Yen, J. (2026). Part three: Survey analysis and report. In S. A. Edwards, Small press publishing in Canada, 2025/6 (pp. 19–20). Canada Council for the Arts SEED Program. https://doi.org/10.5281/zenodo.20183963  <br>  
   - **Wongvorachan, T**. (2023). The impact of classroom competition and cooperation to student academic performance. PsyArXiv. https://doi.org/10.31234/osf.io/7vugd  <br>  
   - **Wongvorachan, T**. (2021). Review of Rorschach Ink-Blot Test: Performance Assessment System (R-PAS®). PsyArXiv. https://doi.org/10.31234/osf.io/jts4z  <br>  
   - **Wongvorachan, T**. (2020). [_Cheating behavior in high-stakes test: A synthesis statement_](https://github.com/TaridWong/digitalcv/files/7489804/Master.Project_Tarid.pdf). [Unpublished Master’s final project]. Washington State University.  <br>  
