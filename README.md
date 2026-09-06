@@ -350,7 +350,8 @@ Thammasat University, Thailand.
     -  Assisted multidisciplinary professional teams in crisis intervention   
 
 ## 📋 PROFESSIONAL AFFILIATIONS  
-  - The International Society for the Scholarship of Teaching and Learning - [iSSOTL](https://issotl.com/)  _(2026-present)_  
+  - The International Society for the Scholarship of Teaching and Learning - [iSSOTL](https://issotl.com/)  _(2026-present)_
+  - Statistics Without Borders - [SWB](https://www.statisticswithoutborders.org/)  _(2024-present)_  
   - American Educational Research Association - [AERA](https://www.aera.net/)  _(2021-present)_  
   - Mixed Methods International Research Association [(MMIRA)](https://mmira.wildapricot.org/) _(2022-present)_  
   - National Council of Measurement in Education [(NCME)](https://www.ncme.org/home) _(2021-Present)_  
