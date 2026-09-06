@@ -129,6 +129,9 @@ Thammasat University Graduate (2012-2016)
   - Clelland, A., Wongvorachan T., Gorgun, G., Bulut, O. (In preparation). The ethical use of artificial intelligence in education: A systematic review. <br>
   
 ## :newspaper: ACADEMIC SERVICE  
+
+### Editorial Board Service:  
+ - _Journal of Research Methodology_ (_วารสารวิธีวิทยาการวิจัย_), Department of Educational Research and Psychology, Faculty of Education, Chulalongkorn University, Bangkok, Thailand. <br>  
   
 ### Peer Reviewer (13):  
  - ISSOTL26 - Building Bridges: Strengthening Relationships and Networks in SoTL (2026)  
