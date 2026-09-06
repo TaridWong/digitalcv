@@ -152,7 +152,7 @@ Thammasat University Graduate (2012-2016)
  - Chobthamkit, P., Sutton, R. M., Uskul, A. K., & Chaleeraktrakoon, T. (2022). Personal Versus General Belief in a Just World, Karma, and Well-Being: Evidence from Thailand and the UK. _Social Justice Research_, 1-22. https://doi.org/10.1007/s11211-022-00393-4  
  - Poth, C. N., Molina-Azorin, J. F., & Fetters, M. D. (2022). Virtual Special Issue on “Design of Mixed Methods Research: Past Advancements, Present Conversations, and Future Possibilities.” Journal of Mixed Methods Research. https://doi.org/10.1177/15586898221110375  
   
-### Invited Talks (16):  
+### Invited Talks (17):  
   - Wongvorachan, T. (2026, July 11th). _LLM: From Rented Intelligence to Intellectual Autonomy_. Seminar. Department of Educational Research and Psychology. Faculty of Education, Chulalongkorn University, Thailand   
   - Wongvorachan, T. (2026, April 25th). _Statistics: Helping Us Make Better Decisions Every Day_. Open Lecture. MARCS-CILS NokHook BabyLab, Faculty of Liberal Arts, Thammasat University, Bangkok, Thailand  
   - Wongvorachan, T. (2026, January 26th). _Systematic Reviews: From Information Noise to Evidence Synthesis_. Workshop. Department of Psychology, Faculty of Liberal Arts, Thammasat University, Thailand  
@@ -163,7 +163,8 @@ Thammasat University Graduate (2012-2016)
   - Wongvorachan T. (2025, July 5th). _From Concept to Completion: Using AI to Support Every Stage of the Dissertation Process_. Seminar. Faculty of Psychology, Chulalongkorn University, Thailand.  
   - Wongvorachan T. (2025, May 17th). _The Art and Science of Giving Effective Feedback: Insights from Education and Artificial Intelligence_. Open lecture. Faculty of Psychology, Chulalongkorn University, Thailand.  
   -	Wongvorachan, T. (2025, February 20th). Introduction to Free and Open-Source Research Tools. Seminar. Centre for Mathematics, Science, and Technology Education, University of Alberta, Edmonton, AB, Canada.  
-  - Wongvorachan T. (2025, January 22nd and 24th). _Analyzing Large-Scale Survey Data with Data Science Techniques_. Open lecture. Faculty of Psychology, Chulalongkorn University, Thailand.  
+  - Wongvorachan T. (2025, January 22nd and 24th). _Analyzing Large-Scale Survey Data with Data Science Techniques_. Open lecture. Faculty of Psychology, Chulalongkorn University, Thailand.
+  - Wongvorachan T. (2024, September 14). _Introduction to Qualitative-oriented Mixed Methods Research_. EDHS 597 Qualitative Research Methodologies in Health Science Education. Faculty of Rehabilitation Medicine, University of Alberta, Canada.  
   - Wongvorachan T. (2024, August 28th). _Mastering the art of literature review: Navigating research landscapes and uncovering your next big idea_. Open lecture. Faculty of Education, Chulalongkorn University, Thailand.  
   - Wongvorachan T. (2023, September 23). _Introduction to Qualitative-oriented Mixed Methods Research_. EDHS 597 Qualitative Research Methodologies in Health Science Education. Faculty of Rehabilitation Medicine, University of Alberta, Canada.  
   - Wongvorachan, T. (2023 June 18). _Stress management in everyday lives_. Sansarang Gallery, Nakhon Si Thammarat, Thailand.  
