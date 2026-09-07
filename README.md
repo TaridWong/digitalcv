@@ -86,7 +86,9 @@ Thammasat University Graduate (2012-2016)
 - **Wongvorachan, T**., Clelland A., Gorgun G., Bulut, O. (2022). [Identifying the Predictors of Mathematics Anxiety AND Performance in Canada: An Educational Data Mining Approach](https://journals.library.ualberta.ca/aar/index.php/aar/article/view/134). _Alberta Academic Review_, _5_(1), 2-2. <br>  
 - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016). [The influence of communication methods on the perception of sadness](http://bsris.swu.ac.th/journal/230160/pdf/4.noppamon55-70.pdf). _Journal of Behavioral Science, 23_(1), 55-70. <br> 
 
-### Professional Conference Presentations (30):  
+### Professional Conference Presentations (31):  
+ - **Wongvorachan, T**. (2026, October 28th – 31st). _Friendly Neighborhood Methodologist: Bridging the Gap Between Classroom Practice and Technical Innovation_ [SoTL Studio]. iSSOTL26
+Building Bridges: Strengthening Relationships and Networks in SoTL, Saskatoon, Saskatchewan, Canada.  
  - Kwon, A., Ng, I. Y. E., Noels, K. A., and **Wongvorachan, T**. (2026, July 14-18). _Does who I am depend on where I am? Examining situated ethnic identity through ESM_ [Poster presentation]. 28th International Congress of the International Association for Cross-Cultural Psychology – IACCP 2026, Leuven, Belgium.  
  - Chonmahatrakul, N., Onsuwan, C., Chonchaiya, W., **Wongvorachan, T**., Duangmal, J., and Mazuka, R. (2026, June 22 ). _Preliminary Thai adaptation of the CDI:WG: Early vocabulary and parental comprehensibility of child communication_ [Poster Presentation]. The 28th Biennial Meeting of the International Society for the Study of Behavioural Development (ISSBD), Incheon, South Korea. https://2026biennial.issbd.org/  
  - Larsen, D., Hudson Breen, R., Hunter, D., Bulut, O., **Wongvorachan, T**., Hobbs, C., Everitt, L., and McCrae, P. (2025, October). _Developing a teacher hope Scale: The scale and it’s five dimensions_ [Poster presentation]. The College of Social Sciences and Humanities Celebration of Research, University of Alberta, Edmonton, Canada.  
