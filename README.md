@@ -47,6 +47,7 @@ Thammasat University Graduate (2012-2016)
   - Meta-Research, Metrics, & Scientific Integrity:  <br>    
 
 ### Software  
+  - Unsupervised Learning Playground: Interactive Unsupervised Machine Learning Web Platform. Available at: https://github.com/TaridWong/unsupervised-learning-playground    
   - ML Playground 2.0: Interactive Machine Learning Web Platform. Available at: https://github.com/TaridWong/ml-playground-2.0  
   
 ### Peer Reviewed Journal Articles (36):  
